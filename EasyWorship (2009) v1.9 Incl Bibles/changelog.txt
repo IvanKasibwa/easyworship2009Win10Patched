@@ -1,0 +1,35 @@
+NEW Build 1.9 adds support for Microsoft PowerPoint 2010 32 bit.
+
+NOTE Build 1.9 will not support PowerPoint 64 bit edition.
+(Having 64 bit Office provides no additional function except the ability to work with files larger than 2 Gigabytes.)
+(64 bit Office is not installed by default when installing it. You have to manually install Office 64 bit.)
+
+NOTE PowerPoint viewer 2010 will not be able to loop slideshows (for example announcement loops).
+(This is a PowerPoint viewer 2010 bug and will be fixed when Microsoft fixes it. PowerPoint 2010 application is not affected by this.)
+
+NOTE PowerPoint viewer 2010 does not deploy with build 1.9. You can download it from the following link.
+http://www.microsoft.com/downloads/en/details.aspx?FamilyID=cb9bf144-1076-4615-9951-294eeb832823
+
+CHANGE Help File has been updated.
+CHANGE foldback screen no longer uses font formatting from front of house screen.
+CHANGE Display foldback Song Text Word formatting is set to "Automatically wrap words if needed" by default.
+CHANGE When scheduling a YouTube video, the scroll bar on the live screen is disabled automatically.
+CHANGE Windows Vista users will notice their screen go black for a split second when loading EasyWorship 2009 build 1.9. Build 1.9 turns off the Aero theme when loading to work around some of Microsoft's window management issues then turns it back on when you close it. This is not the case in Windows 7.
+
+FIXED YouTube video playback.
+(Some videos with advertisements at the beginning may not play properly)
+FIXED Windows 64 bit control window issues. (Some external apps can still cause problems)
+FIXED PowerPoint animations not working on foldback.
+FIXED PowerPoint slide tracking not working on foldback.
+FIXED Go live to PowerPoint causes last song slide to be displayed.
+FIXED Multiple different transition flicker/flashing issues.
+FIXED Errors when converting database on 64bit windows.
+FIXED Issues with Window Control Manager Win Vista/7.
+FIXED Transitions other than blend paint slowing or hang in the middle of transition.
+FIXED Transition in and out of logo and black issues.
+FIXED Clicking black or logo when DVD is playing pauses the video but the screen doesn't go black or logo doesn't display.
+FIXED Numerous PowerPoint issues.
+FIXED Media store download crashes.
+FIXED Foldback screen background changes to front of house background.
+FIXED Song Background import issues.
+FIXED Dotted line appears in song editor after a certain number of lines have been entered into the song.

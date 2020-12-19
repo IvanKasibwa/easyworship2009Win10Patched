@@ -1,0 +1,18 @@
+ 
+
+Program Installation:
+ 1. Install program
+ 2. Copy and replace "EasyWorship.exe" with the one provided here to the installation directory
+ 3. Run program, go to Help Menu and About EasyWorship option.
+ 4. Register with any name and serial number, and hit validate
+       (e.g., Name: User1; Serial: 1234567)
+ 5. Enjoy!
+
+
+ 
+
+Bible Installation:
+ 1. Run the program
+ 2. Go to the Scripture tab >> Install Bibles from Disk from the bottom menu
+ 3. Then navigate to the directory of Bibles included in this release
+ 4. Enjoy!
